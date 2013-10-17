@@ -14,7 +14,7 @@ líklega vegna þess að það er einhver læsing á Windows 8. Þá ákvað ég
 miðað við USB leiðina.
 
 
-![Mynd af Ubuntu a tölvunni](home/ubuntu/INTOmarkdown/Screenshot from 2013-10-16 15:55:39.png)
+![Mnd af Ubuntu a tölvunni] (Screenshot.png)
 
 ## 2. Uppsetning á vim && git
 
