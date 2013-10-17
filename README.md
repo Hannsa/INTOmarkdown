@@ -14,7 +14,7 @@ líklega vegna þess að það er einhver læsing á Windows 8. Þá ákvað ég
 miðað við USB leiðina.
 
 
-![Mnd af Ubuntu a tölvunni] (Screenshot.png)
+![Mynd af Ubuntu a tölvunni] (Screenshot.png)
 
 ## 2. Uppsetning á vim && git
 
@@ -35,13 +35,17 @@ Hér kemur tengill á mína útgáfu á vekefninu: [Github] (https://github.com/
 
 Ég fann einungis tvö "open source" forrit í tölvunni minni:
 
-1. Open Office
-    Licence: Apache Licence
-    Frumkóði: [Vefsíða] (http://www.openoffice.org/download/other.html#source)
+1.- Open Office
 
-2. VLC Media Player
-    Licence: GNU Licence
-    Frumkóði: [Vefsíða] (http://www.videolan.org/vlc/download-sources.html)
+ Licence: Apache Licence
+
+ Frumkóði: [Vefsíða] (http://www.openoffice.org/download/other.html#source)
+
+2.- VLC Media Player
+
+Licence: GNU Licence
+    
+Frumkóði: [Vefsíða] (http://www.videolan.org/vlc/download-sources.html)
 
 
 ## 5. Unnið með Git (2. hluti)
